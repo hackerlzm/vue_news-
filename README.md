@@ -146,7 +146,7 @@
 ### 安装与运行
 
 ```
-git clone 
+git clone https://github.com/hackerlzm/vue_news-.git
 
 cd vue-music
 
